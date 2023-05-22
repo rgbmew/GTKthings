@@ -16,5 +16,13 @@ The file in there right now is a small example of what you can do with it. I cha
 # themes/adw-gtk3-compact/
 A compact version of <a href="https://github.com/lassekongo83/adw-gtk3">adw-gtk3</a>! This basically only effects the size of window titlebars. I also added comments in /gtk-3.0/libadwaita.css that say "EDIT HERE!!!!!!!!!!!!!!!!!!!!!!!!1" if you want to change the sharpness of window corners. All other changes can be easily understood by comparing the original adw-gtk3, and adw-gtk3-compact in <a href="https://flathub.org/apps/org.gnome.meld">Meld</a>.
 
+<br><br>
+<b>Special thanks to demiskp for making an awesome extension, and lassekongo83 for making an awesome theme!</b>
+<br><br>
 
-Special thanks to demiskp for making an awesome extension, and lassekongo83 for making an awesome theme!
+# Wallpapers
+<a href="https://www.desktopgeneration.com/static/media/corporate_classic.318e946fd50162aaf992.png">Blue wallpaper</a> by <a href="https://www.desktopgeneration.com/">desktopGeneration</a>
+
+<a href="https://rgbmew.neocities.org/asd/747770.jpg">Green wallpaper</a> originally from Cardcaptor Sakura merchandise
+
+<a href="https://heynatking.gumroad.com/l/nat-king-psp-wallpaper-pack-01">Yellow wallpaper</a> by <a href="https://natking.design/">NAT KING</a> (and upscaled using <a href="https://flathub.org/apps/io.gitlab.theevilskeleton.Upscaler">Upscaler</a>)
