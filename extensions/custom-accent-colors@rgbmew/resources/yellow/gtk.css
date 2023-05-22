@@ -1,0 +1,7 @@
+@define-color accent_color #f9f06b;
+@define-color accent_bg_color #f5c211;
+
+@define-color headerbar_bg_color #f9f06b60;
+@define-color headerbar_backdrop_color #f9f06b30;
+
+@import url('more.css');

@@ -1,0 +1,171 @@
+/*
+  If you use the Unite extension, you can uncomment the following line to make it work with the Custom Accent Colors extension!
+  Otherwise, Unite will try to overwrite Custom Accent Colors' CSS file, and Custom Accent Colors will try to overwrite Unite's CSS file.
+*/
+
+/*
+  @import url('~/.local/share/gnome-shell/extensions/unite@hardpixel.eu/styles/gtk4/buttons-right/maximized.css');
+*/
+
+.card {
+	border-radius: 5px;
+	border-width: 1px;
+}
+
+list.boxed-list  {
+	border-radius: 5px;
+	border-width: 1px;
+}
+
+list.boxed-list row:not(:last-child):not(:first-child):only-child{
+	border-radius: 0px;
+}
+
+list.boxed-list row:not(:last-child):not(:first-child):hover{
+	border-radius: 0px;
+}
+
+list.boxed-list row:last-child, list.boxed-list row:last-child:hover {
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+list.boxed-list row:first-child,list.boxed-list row:first-child:hover {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+}
+
+list.boxed-list row.activatable:not(:last-child):not(:first-child):selected {
+	border-radius: 0px;
+}
+
+list.boxed-list row.activatable:last-child:selected{
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+	border-bottom-left-radius: 5px;
+	border-bottom-right-radius: 5px;
+}
+
+list.boxed-list row.activatable:first-child:selected {
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+}
+
+list row.entry:only-child,list row.entry:only-child:hover {
+	border-radius: 5px;
+}
+
+window.background.csd.messagedialog .response-area button:first-child {
+	border-bottom-left-radius: 5px;
+}
+
+window.background.csd.messagedialog .response-area button:last-child {
+	border-bottom-right-radius: 5px;
+}
+
+viewswitcher button.flat.horizontal.toggle {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+viewswitcher button.flat.horizontal.toggle:hover {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+viewswitcher button.flat.horizontal.toggle:checked {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+viewswitcher button.flat.horizontal.toggle box, viewswitcher button.flat.vertical.toggle box {
+	margin-top: 2px;
+}
+
+
+revealer viewswitcher button.flat.vertical.toggle box {
+	margin-top: 5px;
+}
+
+viewswitcher button.flat.vertical.toggle {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+viewswitcher button.flat.vertical.toggle:hover {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+viewswitcher button.flat.vertical.toggle:checked {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+/*When view switcher is at the bottom and narrow*/
+revealer viewswitcher.narrow button.flat.vertical.toggle {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+revealer viewswitcher.narrow button.flat.vertical.toggle:hover {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+revealer viewswitcher.narrow button.flat.vertical.toggle:checked {
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+tabboxchild {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+
+tabboxchild tab {
+	border-radius: 0px;
+}
+
+tabboxchild tab:selected {
+	border-radius: 0px;
+}
+
+tabboxchild tab:hover:not(:selected) {
+	border-radius: 0px;
+}
+
+tabthumbnail picture {
+	border-radius: 5px;
+}
+
+popover contents {
+	border-radius: 5px;
+	border-width: 1px;
+}
+
+
+/*
+  Edit these below if you want to change the sharpness of your window corners!
+*/
+window {
+	border-bottom-left-radius: 8px;
+	border-bottom-right-radius: 8px;
+	border-top-left-radius: 8px;
+	border-top-right-radius: 8px;
+}
+
+window.maximized {
+	border-bottom-left-radius: 0px;
+	border-bottom-right-radius: 0px;
+	border-top-left-radius: 0px;
+	border-top-right-radius: 0px;
+}
