@@ -26,3 +26,5 @@ A compact version of <a href="https://github.com/lassekongo83/adw-gtk3">adw-gtk3
 <a href="https://rgbmew.neocities.org/asd/747770.jpg">Green wallpaper</a> originally from Cardcaptor Sakura merchandise
 
 <a href="https://heynatking.gumroad.com/l/nat-king-psp-wallpaper-pack-01">Yellow wallpaper</a> by <a href="https://natking.design/">NAT KING</a> (and upscaled using <a href="https://flathub.org/apps/io.gitlab.theevilskeleton.Upscaler">Upscaler</a>)
+
+<a href="https://twitter.com/lililjiliijili/status/1164240380599996416">Wallpaper in the Clapper preview</a> by <a href="https://twitter.com/lililjiliijili">@lililjiliijili</a>
