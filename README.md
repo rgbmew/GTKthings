@@ -1,3 +1,8 @@
+# use castly instead
+i made a tool called castly to do this, instead of this janky gnome extension fork https://github.com/rgbmew/castly
+
+<br><br><br><br><br><br><br>
+
 # GTKthings
 
 A small collection of GNOME-related things I made for <a href="https://www.reddit.com/r/gnome/comments/13oic6h/i_3_gnome_but_the_one_thing_i_want_to_steal_from/">this Reddit post</a>.
